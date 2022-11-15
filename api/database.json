@@ -1,0 +1,89 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Cormac McCarthy",
+      "email": "cormacmccarthy@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "George Orwell",
+      "email": "animalfarm1984@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "J.R.R. Tolkien",
+      "email": "samwasthehero@yahoo.com"
+    }
+  ],
+  "letters": [
+    {
+      "text": "afsafds",
+      "authorId": 1,
+      "topicId": 1,
+      "recipientId": 2,
+      "id": 3
+    },
+    {
+      "text": "kdjshfjkdshfjk",
+      "authorId": 1,
+      "topicId": 1,
+      "recipientId": 2,
+      "id": 4
+    },
+    {
+      "text": "hfjeskhfksd",
+      "authorId": 1,
+      "topicId": 1,
+      "recipientId": 2,
+      "id": 5
+    },
+    {
+      "text": "fdsfds",
+      "authorId": 1,
+      "topicId": 1,
+      "recipientId": 2,
+      "date": "Tue Nov 15 2022",
+      "id": 6
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "Business"
+    },
+    {
+      "id": 2,
+      "name": "Friendly"
+    },
+    {
+      "id": 3,
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "name": "Congratulations"
+    },
+    {
+      "id": 5,
+      "name": "Condolences"
+    }
+  ],
+  "recipients": [
+    {
+      "id": 1,
+      "name": "Cormac McCarthy",
+      "email": "cormacmccarthy@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "George Orwell",
+      "email": "animalfarm1984@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "J.R.R. Tolkien",
+      "email": "samwasthehero@yahoo.com"
+    }
+  ]
+}
